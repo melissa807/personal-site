@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>My personal Web site</title>
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+ <header>
+	<h1>Welcome To My Website</h1>
+	<nav>
+	<a href="index.html">Home</a>
+	<a href="about.html">About Me</a>
+	</nav>
+	
+</header>
+<section>
+	<h2>Introduction</h2>
+	<p>Hello! My name Melisa Thwabi.Welcome to my personal website where I will share a bit about myself.</p>
+	<h2>My hobbies</h2>
+	<ul>
+	   <li>singing</li>
+	   <li>dancing</li>
+	   <li>reading</li>
+	</ul>
+	<h2>My favourite image</h2>
+	<img src="puppy JFIF" width="300" alt="Lala's image">
+</section>
+<footer>
+	<p>&copy; Melissa Thwabi    <a href="www.youtube.com">Visit YouTube</a></p>
+</footer>
+
+</body>
+</html>
